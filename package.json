@@ -1,0 +1,19 @@
+{
+  "name": "node.js-base",
+  "version": "1.0.0",
+  "description": "My base template of Node.js with Typescript, JWT authentication and multiple database configurations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiracSpace/Node.js-Base.git"
+  },
+  "author": "DiracSpace",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/DiracSpace/Node.js-Base/issues"
+  },
+  "homepage": "https://github.com/DiracSpace/Node.js-Base#readme"
+}
